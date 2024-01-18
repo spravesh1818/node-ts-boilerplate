@@ -1,0 +1,13 @@
+# Environment varibales 
+.env
+.env.local
+.env.production
+
+# Node Modules
+node_modules
+node_modules/*
+
+# Output JS folders
+dist/*
+
+
